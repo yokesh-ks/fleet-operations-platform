@@ -1,0 +1,104 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum JobStatus {
+  PENDING
+  PROCESSING
+  COMPLETED
+  FAILED
+}
+
+model IngestionJob {
+  id              String         @id @default(cuid())
+  status          JobStatus      @default(PENDING)
+  sourceType      String         @default("api")
+  errorMessage    String?
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  rawPayload      RawPayload?
+  fuelReport      FuelReport?
+
+  @@map("ingestion_jobs")
+}
+
+model RawPayload {
+  id              String         @id @default(cuid())
+  payload         Json
+  ingestionJobId  String         @unique
+  createdAt       DateTime       @default(now())
+  ingestionJob    IngestionJob   @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
+
+  @@map("raw_payloads")
+}
+
+model FuelReport {
+  id              String         @id @default(cuid())
+  vesselCode      String
+  reportDate      DateTime
+  fuelConsumedTons Float
+  distanceNm      Float
+  ingestionJobId  String         @unique
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  ingestionJob    IngestionJob   @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
+  vessel          Vessel         @relation(fields: [vesselCode], references: [code])
+  anomalies       Anomaly[]
+
+  @@unique([vesselCode, reportDate])
+  @@map("fuel_reports")
+}
+
+model Vessel {
+  code                    String         @id
+  name                    String
+  fuelEfficiencyBenchmark Float
+  createdAt               DateTime       @default(now())
+  updatedAt               DateTime       @updatedAt
+  fuelReports             FuelReport[]
+  anomalies               Anomaly[]
+
+  @@map("vessels")
+}
+
+enum AnomalyType {
+  FUEL_VARIANCE
+}
+
+enum AnomalySeverity {
+  LOW
+  MEDIUM
+  HIGH
+  CRITICAL
+}
+
+enum AnomalyStatus {
+  OPEN
+  INVESTIGATING
+  RESOLVED
+  FALSE_POSITIVE
+}
+
+model Anomaly {
+  id              String          @id @default(cuid())
+  type            AnomalyType
+  severity        AnomalySeverity
+  vesselCode      String
+  fuelReportId    String
+  expectedValue   Float
+  actualValue     Float
+  variancePercent Float
+  description     String
+  status          AnomalyStatus   @default(OPEN)
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  vessel          Vessel          @relation(fields: [vesselCode], references: [code])
+  fuelReport      FuelReport      @relation(fields: [fuelReportId], references: [id])
+
+  @@index([vesselCode, status])
+  @@map("anomalies")
+}
