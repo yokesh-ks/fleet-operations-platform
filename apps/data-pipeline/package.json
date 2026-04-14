@@ -3,19 +3,22 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./dist/index.js",
-    "dev": "ts-node src/index.ts",
-    "build": "tsc",
     "typecheck": "tsc --noEmit",
     "extract:ais": "ts-node 00-extract/script/ais-csv-extractor.ts",
     "extract:port-performance": "ts-node 00-extract/script/port-performance-extractor.ts",
     "extract:fuel-efficiency": "ts-node 00-extract/script/fuel-efficiency-extractor.ts",
     "transform:ais": "ts-node 01-transform/scripts/transform-ais.ts",
     "transform:fuel-report": "ts-node 01-transform/scripts/transform-fuel-report.ts",
-    "transform:port-performance": "ts-node 01-transform/scripts/transform-port-performance.ts"
+    "transform:vessels": "ts-node 01-transform/scripts/transform-vessels.ts",
+    "transform:port-performance": "ts-node 01-transform/scripts/transform-port-performance.ts",
+    "migrate:ais": "ts-node 02-load/scripts/migrate-ais.ts",
+    "migrate:fuel-report": "ts-node 02-load/scripts/migrate-fuel-report.ts",
+    "migrate:vessels": "ts-node 02-load/scripts/migrate-vessels.ts",
+    "migrate:port-performance": "ts-node 02-load/scripts/migrate-port-performance.ts"
   },
   "dependencies": {
     "csv-parser": "^3.2.0",
+    "dotenv": "^17.4.2",
     "zod": "^4.3.6"
   },
   "devDependencies": {

@@ -47,10 +47,10 @@ model FuelReport {
   fuelType         String
   weather          String?
   engineEfficiency Float?
-  ingestionJobId   String         @unique
+  ingestionJobId   String?        @unique
   createdAt        DateTime       @default(now())
   updatedAt        DateTime       @updatedAt
-  ingestionJob     IngestionJob   @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
+  ingestionJob     IngestionJob?  @relation(fields: [ingestionJobId], references: [id], onDelete: SetNull)
   vessel           Vessel         @relation(fields: [vesselCode], references: [code])
   anomalies        Anomaly[]
 
@@ -120,10 +120,10 @@ model VoyageTelemetry {
   vesselName        String?
   imoNumber         String?
   navigationStatus  String
-  ingestionJobId    String   @unique
+  ingestionJobId    String?       @unique
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
-  ingestionJob      IngestionJob @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
+  ingestionJob      IngestionJob? @relation(fields: [ingestionJobId], references: [id], onDelete: SetNull)
 
   @@unique([vesselTrackingId, timestamp])
   @@map("voyage_telemetry")

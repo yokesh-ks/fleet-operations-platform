@@ -1,0 +1,602 @@
+[
+  {
+    "code": "NG001",
+    "name": "NG001",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG002",
+    "name": "NG002",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG003",
+    "name": "NG003",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG004",
+    "name": "NG004",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG005",
+    "name": "NG005",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG006",
+    "name": "NG006",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG007",
+    "name": "NG007",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG008",
+    "name": "NG008",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG009",
+    "name": "NG009",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG010",
+    "name": "NG010",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG011",
+    "name": "NG011",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG012",
+    "name": "NG012",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG013",
+    "name": "NG013",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG014",
+    "name": "NG014",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG015",
+    "name": "NG015",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG016",
+    "name": "NG016",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG017",
+    "name": "NG017",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG018",
+    "name": "NG018",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG019",
+    "name": "NG019",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG020",
+    "name": "NG020",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG021",
+    "name": "NG021",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG022",
+    "name": "NG022",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG023",
+    "name": "NG023",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG024",
+    "name": "NG024",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG025",
+    "name": "NG025",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG026",
+    "name": "NG026",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG027",
+    "name": "NG027",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG028",
+    "name": "NG028",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG029",
+    "name": "NG029",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG030",
+    "name": "NG030",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG031",
+    "name": "NG031",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG032",
+    "name": "NG032",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG033",
+    "name": "NG033",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG034",
+    "name": "NG034",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG035",
+    "name": "NG035",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG036",
+    "name": "NG036",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG037",
+    "name": "NG037",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG038",
+    "name": "NG038",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG039",
+    "name": "NG039",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG040",
+    "name": "NG040",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG041",
+    "name": "NG041",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG042",
+    "name": "NG042",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG043",
+    "name": "NG043",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG044",
+    "name": "NG044",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG045",
+    "name": "NG045",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG046",
+    "name": "NG046",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG047",
+    "name": "NG047",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG048",
+    "name": "NG048",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG049",
+    "name": "NG049",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG050",
+    "name": "NG050",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG051",
+    "name": "NG051",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG052",
+    "name": "NG052",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG053",
+    "name": "NG053",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG054",
+    "name": "NG054",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG055",
+    "name": "NG055",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG056",
+    "name": "NG056",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG057",
+    "name": "NG057",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG058",
+    "name": "NG058",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG059",
+    "name": "NG059",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG060",
+    "name": "NG060",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG061",
+    "name": "NG061",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG062",
+    "name": "NG062",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG063",
+    "name": "NG063",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG064",
+    "name": "NG064",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG065",
+    "name": "NG065",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG066",
+    "name": "NG066",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG067",
+    "name": "NG067",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG068",
+    "name": "NG068",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG069",
+    "name": "NG069",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG070",
+    "name": "NG070",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG071",
+    "name": "NG071",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG072",
+    "name": "NG072",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG073",
+    "name": "NG073",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG074",
+    "name": "NG074",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG075",
+    "name": "NG075",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG076",
+    "name": "NG076",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG077",
+    "name": "NG077",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG078",
+    "name": "NG078",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG079",
+    "name": "NG079",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG080",
+    "name": "NG080",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG081",
+    "name": "NG081",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG082",
+    "name": "NG082",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG083",
+    "name": "NG083",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG084",
+    "name": "NG084",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG085",
+    "name": "NG085",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG086",
+    "name": "NG086",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG087",
+    "name": "NG087",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG088",
+    "name": "NG088",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG089",
+    "name": "NG089",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG090",
+    "name": "NG090",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG091",
+    "name": "NG091",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG092",
+    "name": "NG092",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG093",
+    "name": "NG093",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG094",
+    "name": "NG094",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG095",
+    "name": "NG095",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG096",
+    "name": "NG096",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG097",
+    "name": "NG097",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG098",
+    "name": "NG098",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG099",
+    "name": "NG099",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG100",
+    "name": "NG100",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG101",
+    "name": "NG101",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG102",
+    "name": "NG102",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG103",
+    "name": "NG103",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG104",
+    "name": "NG104",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG105",
+    "name": "NG105",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG106",
+    "name": "NG106",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG107",
+    "name": "NG107",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG108",
+    "name": "NG108",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG109",
+    "name": "NG109",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG110",
+    "name": "NG110",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG111",
+    "name": "NG111",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG112",
+    "name": "NG112",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG113",
+    "name": "NG113",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG114",
+    "name": "NG114",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG115",
+    "name": "NG115",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG116",
+    "name": "NG116",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG117",
+    "name": "NG117",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG118",
+    "name": "NG118",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG119",
+    "name": "NG119",
+    "fuelEfficiencyBenchmark": 24.5
+  },
+  {
+    "code": "NG120",
+    "name": "NG120",
+    "fuelEfficiencyBenchmark": 24.5
+  }
+]

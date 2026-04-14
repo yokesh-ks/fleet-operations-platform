@@ -6,19 +6,25 @@ import logger from 'morgan';
 
 import indexRouter from './routes/index';
 import usersRouter from './routes/users';
-import ingestionRouter from "./modules/ingestion/ingestion.routes"
+import vesselsRouter from './routes/vessels';
+import voyageTelemetryRouter from './modules/voyage-telemetry/voyage-telemetry.routes';
+import fuelReportsRouter from './modules/fuel-reports/fuel-reports.routes';
+import portBenchmarksRouter from './modules/port-benchmarks/port-benchmarks.routes';
 
 const app = express();
 
 app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ extended: false, limit: '50mb' }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
-app.use('/ingestion', ingestionRouter);
+app.use('/api/vessels', vesselsRouter);
+app.use('/api/voyage-telemetry', voyageTelemetryRouter);
+app.use('/api/fuel-reports', fuelReportsRouter);
+app.use('/api/port-benchmarks', portBenchmarksRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req: Request, res: Response, next: NextFunction) {
