@@ -1,0 +1,29 @@
+{
+  "economyLabel": {
+    "type": "string",
+    "required": true
+  },
+  "marketType": {
+    "type": "string",
+    "required": true
+  },
+  "medianPortStayDays": {
+    "type": "number",
+    "required": true,
+    "minimum": 0
+  },
+  "avgVesselAgeYears": {
+    "type": "number",
+    "required": true,
+    "minimum": 0
+  },
+  "avgVesselSizeGt": {
+    "type": "number",
+    "required": true,
+    "minimum": 0
+  },
+  "period": {
+    "type": "string",
+    "required": true
+  }
+}

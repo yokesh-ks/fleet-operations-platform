@@ -22,6 +22,7 @@ model IngestionJob {
   updatedAt       DateTime       @updatedAt
   rawPayload      RawPayload?
   fuelReport      FuelReport?
+  voyageTelemetry VoyageTelemetry[]
 
   @@map("ingestion_jobs")
 }
@@ -37,19 +38,23 @@ model RawPayload {
 }
 
 model FuelReport {
-  id              String         @id @default(cuid())
-  vesselCode      String
-  reportDate      DateTime
+  id               String         @id @default(cuid())
+  vesselCode       String
+  reportMonth      String
+  routeId          String
+  distanceNm       Float
   fuelConsumedTons Float
-  distanceNm      Float
-  ingestionJobId  String         @unique
-  createdAt       DateTime       @default(now())
-  updatedAt       DateTime       @updatedAt
-  ingestionJob    IngestionJob   @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
-  vessel          Vessel         @relation(fields: [vesselCode], references: [code])
-  anomalies       Anomaly[]
+  fuelType         String
+  weather          String?
+  engineEfficiency Float?
+  ingestionJobId   String         @unique
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  ingestionJob     IngestionJob   @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
+  vessel           Vessel         @relation(fields: [vesselCode], references: [code])
+  anomalies        Anomaly[]
 
-  @@unique([vesselCode, reportDate])
+  @@unique([vesselCode, reportMonth, routeId])
   @@map("fuel_reports")
 }
 
@@ -101,4 +106,39 @@ model Anomaly {
 
   @@index([vesselCode, status])
   @@map("anomalies")
+}
+
+model VoyageTelemetry {
+  id                String   @id @default(cuid())
+  vesselTrackingId  String
+  timestamp         DateTime
+  latitude          Float
+  longitude         Float
+  speedOverGround   Float
+  courseOverGround  Float?
+  heading           Float?
+  vesselName        String?
+  imoNumber         String?
+  navigationStatus  String
+  ingestionJobId    String   @unique
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  ingestionJob      IngestionJob @relation(fields: [ingestionJobId], references: [id], onDelete: Cascade)
+
+  @@unique([vesselTrackingId, timestamp])
+  @@map("voyage_telemetry")
+}
+
+model PortBenchmark {
+  id                    String  @id @default(cuid())
+  economyLabel          String
+  marketType            String
+  medianPortStayDays    Float
+  avgVesselAgeYears     Float
+  avgVesselSizeGt       Float
+  period                String
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
+
+  @@map("port_benchmarks")
 }

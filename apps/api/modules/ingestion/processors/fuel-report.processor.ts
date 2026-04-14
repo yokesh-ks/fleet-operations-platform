@@ -62,29 +62,16 @@ export async function processFuelReportIngestion(
       throw createHttpError(400, `Vessel '${transformedData.vesselCode}' not found in vessel_master`);
     }
 
-    // Step 6: Domain validation - reportDate must not be in the future
-    const now = new Date();
-    now.setHours(0, 0, 0, 0);
-
-    if (transformedData.reportDate > now) {
-      await ingestionJobRepository.update(job.id, {
-        status: 'FAILED',
-        errorMessage: 'reportDate must not be in the future',
-      });
-
-      throw createHttpError(400, 'reportDate must not be in the future');
-    }
-
-    // Step 7: Update job to PROCESSING
+    // Step 6: Update job to PROCESSING
     await ingestionJobRepository.update(job.id, { status: 'PROCESSING' });
 
-    // Step 8: Normalize and upsert fuel report (deduplication by vesselCode + reportDate)
+    // Step 7: Normalize and upsert fuel report (deduplication by vesselCode + reportMonth + routeId)
     const fuelReport = await fuelReportRepository.upsert({
       ...transformedData,
       ingestionJobId: job.id,
     });
 
-    // Step 9: Run fuel anomaly detection
+    // Step 8: Run fuel anomaly detection
     const anomalyResult = await anomalyService.checkFuelAnomaly({
       vesselCode: fuelReport.vesselCode,
       fuelReportId: fuelReport.id,
@@ -92,7 +79,7 @@ export async function processFuelReportIngestion(
       distanceNm: fuelReport.distanceNm,
     });
 
-    // Step 10: Mark job as COMPLETED
+    // Step 9: Mark job as COMPLETED
     await ingestionJobRepository.update(job.id, { status: 'COMPLETED' });
 
     return {

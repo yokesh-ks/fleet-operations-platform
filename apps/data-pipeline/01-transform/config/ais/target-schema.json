@@ -1,0 +1,62 @@
+{
+  "vesselTrackingId": {
+    "type": "string",
+    "required": true,
+    "description": "Maritime Mobile Service Identity"
+  },
+  "timestamp": {
+    "type": "string",
+    "format": "date-time",
+    "required": true,
+    "description": "AIS position report timestamp"
+  },
+  "latitude": {
+    "type": "number",
+    "required": true,
+    "minimum": -90,
+    "maximum": 90,
+    "description": "Latitude in decimal degrees"
+  },
+  "longitude": {
+    "type": "number",
+    "required": true,
+    "minimum": -180,
+    "maximum": 180,
+    "description": "Longitude in decimal degrees"
+  },
+  "speedOverGround": {
+    "type": "number",
+    "required": true,
+    "minimum": 0,
+    "description": "Speed over ground in knots"
+  },
+  "courseOverGround": {
+    "type": "number",
+    "required": false,
+    "minimum": 0,
+    "maximum": 360,
+    "description": "Course over ground in degrees"
+  },
+  "heading": {
+    "type": "number",
+    "required": false,
+    "minimum": 0,
+    "maximum": 360,
+    "description": "Vessel heading in degrees"
+  },
+  "vesselName": {
+    "type": "string",
+    "required": false,
+    "description": "Registered vessel name"
+  },
+  "imoNumber": {
+    "type": ["string", "null"],
+    "required": false,
+    "description": "IMO number"
+  },
+  "navigationStatus": {
+    "type": "string",
+    "required": true,
+    "description": "Navigation status code"
+  }
+}

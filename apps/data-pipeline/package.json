@@ -9,14 +9,17 @@
     "typecheck": "tsc --noEmit",
     "extract:ais": "ts-node 00-extract/script/ais-csv-extractor.ts",
     "extract:port-performance": "ts-node 00-extract/script/port-performance-extractor.ts",
-    "extract:fuel-efficiency": "ts-node 00-extract/script/fuel-efficiency-extractor.ts"
+    "extract:fuel-efficiency": "ts-node 00-extract/script/fuel-efficiency-extractor.ts",
+    "transform:ais": "ts-node 01-transform/scripts/transform-ais.ts",
+    "transform:fuel-report": "ts-node 01-transform/scripts/transform-fuel-report.ts",
+    "transform:port-performance": "ts-node 01-transform/scripts/transform-port-performance.ts"
   },
   "dependencies": {
     "csv-parser": "^3.2.0",
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
+    "@types/node": "^20.19.39",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.0"
   }

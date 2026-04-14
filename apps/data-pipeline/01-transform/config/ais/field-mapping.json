@@ -1,0 +1,12 @@
+{
+  "MMSI": "vesselTrackingId",
+  "BaseDateTime": "timestamp",
+  "LAT": "latitude",
+  "LON": "longitude",
+  "SOG": "speedOverGround",
+  "COG": "courseOverGround",
+  "Heading": "heading",
+  "VesselName": "vesselName",
+  "IMO": "imoNumber",
+  "Status": "navigationStatus"
+}

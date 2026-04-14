@@ -1,0 +1,12 @@
+[
+  "MMSI",
+  "BaseDateTime",
+  "LAT",
+  "LON",
+  "SOG",
+  "COG",
+  "Heading",
+  "VesselName",
+  "IMO",
+  "Status"
+]

@@ -1,0 +1,47 @@
+{
+  "vesselCode": {
+    "type": "string",
+    "required": true,
+    "description": "Unique vessel identifier"
+  },
+  "reportMonth": {
+    "type": "string",
+    "required": true,
+    "description": "Month name (e.g., January, February)"
+  },
+  "distanceNm": {
+    "type": "number",
+    "required": true,
+    "minimum": 0,
+    "description": "Distance traveled in nautical miles"
+  },
+  "fuelConsumedTons": {
+    "type": "number",
+    "required": true,
+    "minimum": 0,
+    "description": "Fuel consumed in metric tons"
+  },
+  "fuelType": {
+    "type": "string",
+    "required": true,
+    "description": "Type of fuel (e.g., HFO, Diesel)"
+  },
+  "weather": {
+    "type": "string",
+    "required": true,
+    "enum": ["Calm", "Moderate", "Stormy"],
+    "description": "Weather conditions during the trip"
+  },
+  "engineEfficiency": {
+    "type": "number",
+    "required": true,
+    "minimum": 0,
+    "maximum": 100,
+    "description": "Engine efficiency as a percentage"
+  },
+  "routeId": {
+    "type": "string",
+    "required": true,
+    "description": "Route identifier (e.g., Warri-Bonny, Port Harcourt-Lagos)"
+  }
+}

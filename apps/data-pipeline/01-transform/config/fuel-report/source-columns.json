@@ -1,0 +1,10 @@
+[
+  "ship_id",
+  "month",
+  "distance",
+  "fuel_consumption",
+  "fuel_type",
+  "weather_conditions",
+  "engine_efficiency",
+  "route_id"
+]

@@ -1,0 +1,8 @@
+{
+  "Economy_Label": "economyLabel",
+  "CommercialMarket_Label": "marketType",
+  "Median_time_in_port_days_Value": "medianPortStayDays",
+  "Average_age_of_vessels_years_Value": "avgVesselAgeYears",
+  "Average_size_GT_of_vessels_Value": "avgVesselSizeGt",
+  "period": "period"
+}

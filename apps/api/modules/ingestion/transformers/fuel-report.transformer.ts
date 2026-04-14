@@ -2,24 +2,27 @@ import type { FuelReportIngestionInput } from '../dto/fuel-report.dto';
 
 export interface TransformedFuelReport {
   vesselCode: string;
-  reportDate: Date;
-  fuelConsumedTons: number;
+  reportMonth: string;
+  routeId: string;
   distanceNm: number;
+  fuelConsumedTons: number;
+  fuelType: string;
+  weather: string;
+  engineEfficiency: number;
 }
 
 /**
  * Transforms validated ingestion input into the format required for persistence
- * - Parses reportDate string into Date object
- * - Normalizes field names (fuelConsumed -> fuelConsumedTons)
  */
 export function transformFuelReportPayload(input: FuelReportIngestionInput): TransformedFuelReport {
-  const reportDateObj = new Date(input.reportDate);
-  reportDateObj.setHours(0, 0, 0, 0);
-
   return {
     vesselCode: input.vesselCode,
-    reportDate: reportDateObj,
-    fuelConsumedTons: input.fuelConsumed,
+    reportMonth: input.reportMonth,
+    routeId: input.routeId,
     distanceNm: input.distanceNm,
+    fuelConsumedTons: input.fuelConsumedTons,
+    fuelType: input.fuelType,
+    weather: input.weather,
+    engineEfficiency: input.engineEfficiency,
   };
 }

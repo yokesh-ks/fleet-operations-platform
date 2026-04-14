@@ -1,0 +1,10 @@
+{
+  "ship_id": "vesselCode",
+  "month": "reportMonth",
+  "distance": "distanceNm",
+  "fuel_consumption": "fuelConsumedTons",
+  "fuel_type": "fuelType",
+  "weather_conditions": "weather",
+  "engine_efficiency": "engineEfficiency",
+  "route_id": "routeId"
+}
