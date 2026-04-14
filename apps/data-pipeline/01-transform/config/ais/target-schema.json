@@ -34,15 +34,15 @@
     "type": "number",
     "required": false,
     "minimum": 0,
-    "maximum": 360,
+    "maximum": 999,
     "description": "Course over ground in degrees"
   },
   "heading": {
     "type": "number",
     "required": false,
     "minimum": 0,
-    "maximum": 360,
-    "description": "Vessel heading in degrees"
+    "maximum": 511,
+    "description": "Vessel heading in degrees (511 = not available)"
   },
   "vesselName": {
     "type": "string",
@@ -56,7 +56,7 @@
   },
   "navigationStatus": {
     "type": "string",
-    "required": true,
+    "required": false,
     "description": "Navigation status code"
   }
 }

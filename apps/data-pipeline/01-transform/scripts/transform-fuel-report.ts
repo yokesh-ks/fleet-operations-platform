@@ -1,5 +1,5 @@
 import path from 'path';
-import { mapFields, validateAgainstSchema, loadConfig, processFiles } from '../helpers/transform-utils';
+import { mapFields, coerceNumericFields, validateAgainstSchema, loadConfig, processFiles } from '../helpers/transform-utils';
 
 // Read field mapping configuration
 const fieldMapping = loadConfig('../config/fuel-report/field-mapping.json');
@@ -11,10 +11,17 @@ const targetSchema = loadConfig('../config/fuel-report/target-schema.json');
  * @returns Transformed data matching target schema
  */
 function transformFuelReportData(inputData: any): any {
-  const transformed = mapFields(inputData, fieldMapping);
+  const mapped = mapFields(inputData, fieldMapping);
+  const transformed = coerceNumericFields(mapped, targetSchema);
 
   // Handle computed fields
-  if (transformed.distanceNm && transformed.fuelConsumptionLiters) {
+  if (Array.isArray(transformed)) {
+    transformed.forEach((item: any) => {
+      if (item.distanceNm && item.fuelConsumptionLiters) {
+        item.fuelEfficiencyNmPerLiter = item.distanceNm / item.fuelConsumptionLiters;
+      }
+    });
+  } else if (transformed.distanceNm && transformed.fuelConsumptionLiters) {
     transformed.fuelEfficiencyNmPerLiter = transformed.distanceNm / transformed.fuelConsumptionLiters;
   }
 
@@ -35,7 +42,7 @@ async function transformFuelReport(inputDir: string, outputDir: string): Promise
 
 // If run directly, use default directories
 if (require.main === module) {
-  const inputDir = path.join(__dirname, '..', '00-extract/output/fuel-report');
+  const inputDir = path.join(__dirname, '..', '..', '00-extract/output/fuel-efficiency');
   const outputDir = path.join(__dirname, '..', 'output/fuel-report');
   transformFuelReport(inputDir, outputDir);
 }

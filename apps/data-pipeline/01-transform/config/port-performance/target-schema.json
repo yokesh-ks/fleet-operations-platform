@@ -9,7 +9,7 @@
   },
   "medianPortStayDays": {
     "type": "number",
-    "required": true,
+    "required": false,
     "minimum": 0
   },
   "avgVesselAgeYears": {

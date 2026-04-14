@@ -1,5 +1,5 @@
 import path from 'path';
-import { mapFields, validateAgainstSchema, loadConfig, processFiles } from '../helpers/transform-utils';
+import { mapFields, coerceNumericFields, validateAgainstSchema, loadConfig, processFiles } from '../helpers/transform-utils';
 
 // Read field mapping configuration
 const fieldMapping = loadConfig('../config/ais/field-mapping.json');
@@ -11,7 +11,8 @@ const targetSchema = loadConfig('../config/ais/target-schema.json');
  * @returns Transformed data matching target schema
  */
 function transformAISData(inputData: any): any {
-  const transformed = mapFields(inputData, fieldMapping);
+  const mapped = mapFields(inputData, fieldMapping);
+  const transformed = coerceNumericFields(mapped, targetSchema);
 
   // Validate against target schema
   validateAgainstSchema(transformed, targetSchema);
@@ -30,7 +31,7 @@ async function transformAIS(inputDir: string, outputDir: string): Promise<void> 
 
 // If run directly, use default directories
 if (require.main === module) {
-  const inputDir = path.join(__dirname, '..', '00-extract/output/ais');
+  const inputDir = path.join(__dirname, '..', '..', '00-extract/output/ais');
   const outputDir = path.join(__dirname, '..', 'output/ais');
   transformAIS(inputDir, outputDir);
 }

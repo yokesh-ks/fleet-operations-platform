@@ -1,0 +1,1946 @@
+[
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 10455,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.18,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 21882,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.05,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 13656,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.18,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 9976,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.14,
+    "avgVesselAgeYears": 9,
+    "avgVesselSizeGt": 107081,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.97,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 25543,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.48,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 4459,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 26459,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.03,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 54570,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 22356,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.66,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 12661,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.43,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 4971,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.7,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 6137,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.7,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 31062,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.63,
+    "avgVesselAgeYears": 28,
+    "avgVesselSizeGt": 3536,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 30588,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.17,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 51470,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 11527,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.76,
+    "avgVesselAgeYears": 23,
+    "avgVesselSizeGt": 8509,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.57,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 5561,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.96,
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 5131,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.08,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 103176,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.43,
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 8313,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.1,
+    "avgVesselAgeYears": 33,
+    "avgVesselSizeGt": 2926,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 35,
+    "avgVesselSizeGt": 15251,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.95,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 46427,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 23,
+    "avgVesselSizeGt": 7893,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.25,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 7903,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.36,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 8841,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.06,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 8111,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.44,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 98123,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.64,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 25853,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.09,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 5090,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 11774,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.97,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 13301,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 5284,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.31,
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 10706,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.24,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 17419,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.56,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 8548,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 2.36,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 44920,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 4.45,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 26874,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.98,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 6730,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 35628,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.94,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 38998,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 29,
+    "avgVesselSizeGt": 8248,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.42,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 10074,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.31,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 9002,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.34,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 6248,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.01,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 66944,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.77,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 16908,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.13,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 6848,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 16876,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.38,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 16125,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 4651,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.85,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 19185,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.73,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 14644,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.8,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 7783,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.03,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 109667,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.27,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 29304,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.14,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 5541,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 27335,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.69,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 31817,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Korea, Republic of",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 15379,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.55,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 12391,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.52,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 9258,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.01,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 7195,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.07,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 79336,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 1.35,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 38427,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.38,
+    "avgVesselAgeYears": 24,
+    "avgVesselSizeGt": 3727,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 20144,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.84,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 30785,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Netherlands (Kingdom of the)",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 13551,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.44,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 3999,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.61,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 10405,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.86,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 9641,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 0.32,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 25094,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.85,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 18331,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.35,
+    "avgVesselAgeYears": 24,
+    "avgVesselSizeGt": 2826,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 10721,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.35,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 8392,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Norway",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 3877,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.99,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 7263,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.86,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 6499,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.71,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 7477,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 5.15,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 26691,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.93,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 4080,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 20100,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.01,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 17705,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Philippines",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 3848,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.42,
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 10933,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.11,
+    "avgVesselAgeYears": 23,
+    "avgVesselSizeGt": 14734,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.79,
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 10395,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.09,
+    "avgVesselAgeYears": 10,
+    "avgVesselSizeGt": 100768,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.78,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 27391,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.56,
+    "avgVesselAgeYears": 31,
+    "avgVesselSizeGt": 4202,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 32,
+    "avgVesselSizeGt": 9882,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.74,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 12834,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Russian Federation",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 28,
+    "avgVesselSizeGt": 7104,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.75,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 25808,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.64,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 11220,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.23,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 9430,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.29,
+    "avgVesselAgeYears": 10,
+    "avgVesselSizeGt": 105058,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.02,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 21373,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.82,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 9604,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 54153,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.88,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 54716,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Singapore",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 121740,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.88,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 16723,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.86,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 11335,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.08,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 8193,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.04,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 96008,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.25,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 25770,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.26,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 5183,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 25984,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.65,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 33109,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Spain",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 15051,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.82,
+    "avgVesselAgeYears": 23,
+    "avgVesselSizeGt": 17319,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.67,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 8489,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.97,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 9640,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.56,
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 8273,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.06,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 3846,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 29439,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.72,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 17410,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Sweden",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 21251,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.24,
+    "avgVesselAgeYears": 25,
+    "avgVesselSizeGt": 5648,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.27,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 18857,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.24,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 17129,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.26,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 111905,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 3.76,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 24462,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.48,
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 4335,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 25,
+    "avgVesselSizeGt": 25015,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.61,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 28827,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "Turkiye",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 1965,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.15,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 14290,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.07,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 13316,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.1,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 6781,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.23,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 100993,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.71,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 26284,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.51,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 3605,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 24002,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.78,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 34727,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United Kingdom",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 13062,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.65,
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 18282,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.65,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 36788,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.79,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 31098,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.39,
+    "avgVesselAgeYears": 6,
+    "avgVesselSizeGt": 106182,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.24,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 29296,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.97,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 12325,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 59899,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.36,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 61734,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "United States of America",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 30,
+    "avgVesselSizeGt": 9886,
+    "period": "2022-S2"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "All ships",
+    "medianPortStayDays": 1,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 14427,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.99,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 16117,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.04,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 10939,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.11,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 93534,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.2,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 32935,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.08,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 5579,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 26276,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.7,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 38049,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "World",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 8278,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.53,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 33793,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.29,
+    "avgVesselAgeYears": 9,
+    "avgVesselSizeGt": 24412,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.84,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 13462,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.2,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 111839,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 1.69,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 59934,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 2.01,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 18043,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 40548,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.38,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 48145,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Australia",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 8212,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.73,
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 11084,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.11,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 24830,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.43,
+    "avgVesselAgeYears": 10,
+    "avgVesselSizeGt": 47635,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.59,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 29290,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.12,
+    "avgVesselAgeYears": 8,
+    "avgVesselSizeGt": 9221,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 14188,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.49,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 59039,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Canada",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 28,
+    "avgVesselSizeGt": 7093,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.05,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 33157,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.11,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 20178,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.02,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 9767,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.17,
+    "avgVesselAgeYears": 10,
+    "avgVesselSizeGt": 95534,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.01,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 43013,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.3,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 11067,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 27170,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.6,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 47767,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "China",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 19196,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.28,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 3856,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.01,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 19434,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.82,
+    "avgVesselAgeYears": 7,
+    "avgVesselSizeGt": 111269,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.1,
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 19481,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 2.66,
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 5750,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.64,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 47054,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Croatia",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 3391,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.77,
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 9862,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.69,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 7940,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.25,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 3520,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.82,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 10726,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.85,
+    "avgVesselAgeYears": 24,
+    "avgVesselSizeGt": 3260,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 23288,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.58,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 22232,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Denmark",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 10227,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.16,
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 22769,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.07,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 14274,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.32,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 9086,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.12,
+    "avgVesselAgeYears": 9,
+    "avgVesselSizeGt": 106812,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 3.25,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 24034,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.51,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 4445,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 19,
+    "avgVesselSizeGt": 27129,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.89,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 61255,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "France",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 23369,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.64,
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 13256,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.42,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 4814,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.85,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 4954,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 28347,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.59,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 29753,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 0.62,
+    "avgVesselAgeYears": 28,
+    "avgVesselSizeGt": 3684,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 32538,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 55126,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Germany",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 22,
+    "avgVesselSizeGt": 12126,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.85,
+    "avgVesselAgeYears": 24,
+    "avgVesselSizeGt": 8420,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.63,
+    "avgVesselAgeYears": 23,
+    "avgVesselSizeGt": 5323,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.98,
+    "avgVesselAgeYears": 26,
+    "avgVesselSizeGt": 5083,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.13,
+    "avgVesselAgeYears": 11,
+    "avgVesselSizeGt": 103339,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 0.76,
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 7124,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.1,
+    "avgVesselAgeYears": 35,
+    "avgVesselSizeGt": 2933,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 35,
+    "avgVesselSizeGt": 16047,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Container ships",
+    "medianPortStayDays": 1.09,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 47853,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Greece",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 23,
+    "avgVesselSizeGt": 7712,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.26,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 7797,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.31,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 8646,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.08,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 8110,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.42,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 94559,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 2.87,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 26055,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.18,
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 5133,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 27,
+    "avgVesselSizeGt": 11030,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.97,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 14272,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Indonesia",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 21,
+    "avgVesselSizeGt": 5021,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "All ships",
+    "medianPortStayDays": 1.31,
+    "avgVesselAgeYears": 28,
+    "avgVesselSizeGt": 10515,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 1.3,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 18789,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 1.46,
+    "avgVesselAgeYears": 16,
+    "avgVesselSizeGt": 8951,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 2.11,
+    "avgVesselAgeYears": 17,
+    "avgVesselSizeGt": 51718,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Dry bulk carriers",
+    "medianPortStayDays": 3.94,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 25986,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Dry breakbulk carriers",
+    "medianPortStayDays": 1.97,
+    "avgVesselAgeYears": 20,
+    "avgVesselSizeGt": 6541,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Roll-on/ roll-off ships",
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 36845,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Container ships",
+    "medianPortStayDays": 0.93,
+    "avgVesselAgeYears": 18,
+    "avgVesselSizeGt": 43377,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Italy",
+    "marketType": "Passenger ships",
+    "avgVesselAgeYears": 30,
+    "avgVesselSizeGt": 7450,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "All ships",
+    "medianPortStayDays": 0.41,
+    "avgVesselAgeYears": 14,
+    "avgVesselSizeGt": 10356,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Liquid bulk carriers",
+    "medianPortStayDays": 0.32,
+    "avgVesselAgeYears": 12,
+    "avgVesselSizeGt": 8398,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Liquefied petroleum gas carriers",
+    "medianPortStayDays": 0.38,
+    "avgVesselAgeYears": 13,
+    "avgVesselSizeGt": 7130,
+    "period": "2023-S1"
+  },
+  {
+    "economyLabel": "Japan",
+    "marketType": "Liquefied natural gas carriers",
+    "medianPortStayDays": 1.01,
+    "avgVesselAgeYears": 15,
+    "avgVesselSizeGt": 63075,
+    "period": "2023-S1"
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "May",
+    "distanceNm": 140.93,
+    "fuelConsumedTons": 3123.16,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 81.87,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "June",
+    "distanceNm": 199.81,
+    "fuelConsumedTons": 4967.24,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 91.56,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "July",
+    "distanceNm": 165.27,
+    "fuelConsumedTons": 4567.73,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 74.01,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "August",
+    "distanceNm": 77.03,
+    "fuelConsumedTons": 1673.46,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 83.29,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "September",
+    "distanceNm": 95.42,
+    "fuelConsumedTons": 1941.68,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 73.12,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "October",
+    "distanceNm": 66.88,
+    "fuelConsumedTons": 1614.5,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 73.91,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "November",
+    "distanceNm": 121.16,
+    "fuelConsumedTons": 2780.05,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 73.7,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG084",
+    "reportMonth": "December",
+    "distanceNm": 118.03,
+    "fuelConsumedTons": 2778.69,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 93.59,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "January",
+    "distanceNm": 119.04,
+    "fuelConsumedTons": 4660.57,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 77.62,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "February",
+    "distanceNm": 76.49,
+    "fuelConsumedTons": 3651.8,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 91,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "March",
+    "distanceNm": 206.81,
+    "fuelConsumedTons": 9953.86,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 90.18,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "April",
+    "distanceNm": 441.81,
+    "fuelConsumedTons": 18535.47,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 79.61,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "May",
+    "distanceNm": 115.57,
+    "fuelConsumedTons": 3509.64,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 88.01,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "June",
+    "distanceNm": 435.76,
+    "fuelConsumedTons": 14392.02,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 70.77,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "July",
+    "distanceNm": 231.77,
+    "fuelConsumedTons": 7505.5,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 85.07,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "August",
+    "distanceNm": 88.81,
+    "fuelConsumedTons": 4282.41,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 78.59,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "September",
+    "distanceNm": 487.34,
+    "fuelConsumedTons": 16075.79,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 85.83,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "October",
+    "distanceNm": 305.38,
+    "fuelConsumedTons": 13160.89,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 78.95,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "November",
+    "distanceNm": 404.67,
+    "fuelConsumedTons": 15459.51,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 78.49,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG085",
+    "reportMonth": "December",
+    "distanceNm": 438.81,
+    "fuelConsumedTons": 20172.76,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 76.39,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "January",
+    "distanceNm": 93.39,
+    "fuelConsumedTons": 2700.59,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 84.67,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "February",
+    "distanceNm": 54.67,
+    "fuelConsumedTons": 1503.38,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 81.74,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "March",
+    "distanceNm": 129.38,
+    "fuelConsumedTons": 4118.22,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 82.1,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "April",
+    "distanceNm": 70.55,
+    "fuelConsumedTons": 2085.57,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 82.71,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "May",
+    "distanceNm": 116.25,
+    "fuelConsumedTons": 3866.17,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 78.83,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "June",
+    "distanceNm": 101.72,
+    "fuelConsumedTons": 3315.76,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 77.7,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "July",
+    "distanceNm": 120.9,
+    "fuelConsumedTons": 3856.34,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 73.46,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "August",
+    "distanceNm": 87.66,
+    "fuelConsumedTons": 2573.41,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 75.87,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "September",
+    "distanceNm": 46.42,
+    "fuelConsumedTons": 1176.1,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 81.75,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "October",
+    "distanceNm": 37.71,
+    "fuelConsumedTons": 1167.85,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 94.98,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "November",
+    "distanceNm": 26.56,
+    "fuelConsumedTons": 838.39,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 90.52,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG086",
+    "reportMonth": "December",
+    "distanceNm": 115.51,
+    "fuelConsumedTons": 4020.17,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 73.89,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "January",
+    "distanceNm": 94.39,
+    "fuelConsumedTons": 2499.01,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 88.56,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "February",
+    "distanceNm": 20.08,
+    "fuelConsumedTons": 652.41,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 87.22,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "March",
+    "distanceNm": 69.46,
+    "fuelConsumedTons": 2422.91,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 75.98,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "April",
+    "distanceNm": 29.73,
+    "fuelConsumedTons": 828.93,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 93.32,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "May",
+    "distanceNm": 119.35,
+    "fuelConsumedTons": 3669.87,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 90.49,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "June",
+    "distanceNm": 149.22,
+    "fuelConsumedTons": 4245.11,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 89.78,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "July",
+    "distanceNm": 96.46,
+    "fuelConsumedTons": 2762.16,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 74.83,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "August",
+    "distanceNm": 110.5,
+    "fuelConsumedTons": 3829.91,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 87.93,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "September",
+    "distanceNm": 39.47,
+    "fuelConsumedTons": 1093.35,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 70.69,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "October",
+    "distanceNm": 38.76,
+    "fuelConsumedTons": 1337.11,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 90.78,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "November",
+    "distanceNm": 119.06,
+    "fuelConsumedTons": 3305.5,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 87.54,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG087",
+    "reportMonth": "December",
+    "distanceNm": 87.85,
+    "fuelConsumedTons": 3067.31,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 85.93,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "January",
+    "distanceNm": 132.09,
+    "fuelConsumedTons": 2338.03,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 80.54,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "February",
+    "distanceNm": 156.94,
+    "fuelConsumedTons": 2726.2,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 83.54,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "March",
+    "distanceNm": 191.47,
+    "fuelConsumedTons": 2401.72,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 92.62,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "April",
+    "distanceNm": 71.41,
+    "fuelConsumedTons": 816.84,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 73.67,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "May",
+    "distanceNm": 187.54,
+    "fuelConsumedTons": 3392.47,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 81.52,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "June",
+    "distanceNm": 180.7,
+    "fuelConsumedTons": 3096.62,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 87.31,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "July",
+    "distanceNm": 123.87,
+    "fuelConsumedTons": 1285.91,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 74.41,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "August",
+    "distanceNm": 81.7,
+    "fuelConsumedTons": 836.03,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 80.89,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "September",
+    "distanceNm": 66.1,
+    "fuelConsumedTons": 1314.38,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 71.88,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "October",
+    "distanceNm": 183.97,
+    "fuelConsumedTons": 2060.31,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 93.24,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "November",
+    "distanceNm": 122.76,
+    "fuelConsumedTons": 2307.49,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 76.32,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG088",
+    "reportMonth": "December",
+    "distanceNm": 159.92,
+    "fuelConsumedTons": 2146.52,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 89.35,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "January",
+    "distanceNm": 82.71,
+    "fuelConsumedTons": 2160.27,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 92.42,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "February",
+    "distanceNm": 155.75,
+    "fuelConsumedTons": 3907.27,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 76.48,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "March",
+    "distanceNm": 119.4,
+    "fuelConsumedTons": 2418.1,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 94.91,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "April",
+    "distanceNm": 133.02,
+    "fuelConsumedTons": 3290.16,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 76.83,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "May",
+    "distanceNm": 160.55,
+    "fuelConsumedTons": 3433.19,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 88.01,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "June",
+    "distanceNm": 82.39,
+    "fuelConsumedTons": 1907.49,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 72.94,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "July",
+    "distanceNm": 51.83,
+    "fuelConsumedTons": 1046.85,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 85.21,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "August",
+    "distanceNm": 78.98,
+    "fuelConsumedTons": 1882.88,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 75.84,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "September",
+    "distanceNm": 132.72,
+    "fuelConsumedTons": 3576.81,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 93.01,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "October",
+    "distanceNm": 194.42,
+    "fuelConsumedTons": 5505.24,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 93.32,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "November",
+    "distanceNm": 89.97,
+    "fuelConsumedTons": 1804.05,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 91.2,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG089",
+    "reportMonth": "December",
+    "distanceNm": 80.5,
+    "fuelConsumedTons": 2275.88,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 71.62,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "January",
+    "distanceNm": 170.41,
+    "fuelConsumedTons": 7649.51,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 88.86,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "February",
+    "distanceNm": 401.99,
+    "fuelConsumedTons": 12851.52,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 93.79,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "March",
+    "distanceNm": 480.77,
+    "fuelConsumedTons": 16041.21,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 91.84,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "April",
+    "distanceNm": 72.98,
+    "fuelConsumedTons": 2205.55,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 81,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "May",
+    "distanceNm": 471.82,
+    "fuelConsumedTons": 20215.06,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 80.85,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "June",
+    "distanceNm": 347.23,
+    "fuelConsumedTons": 11933.39,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 87.31,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "July",
+    "distanceNm": 409.5,
+    "fuelConsumedTons": 15023.17,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 76.3,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "August",
+    "distanceNm": 139.91,
+    "fuelConsumedTons": 5612.47,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 76.96,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "September",
+    "distanceNm": 460.79,
+    "fuelConsumedTons": 20146.18,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 86.9,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "October",
+    "distanceNm": 286.38,
+    "fuelConsumedTons": 12557.11,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 85.74,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "November",
+    "distanceNm": 264.88,
+    "fuelConsumedTons": 13135.67,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 80.73,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG090",
+    "reportMonth": "December",
+    "distanceNm": 168.51,
+    "fuelConsumedTons": 7337.61,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 84.01,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "January",
+    "distanceNm": 258.79,
+    "fuelConsumedTons": 9718.62,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 85.31,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "February",
+    "distanceNm": 340.52,
+    "fuelConsumedTons": 11534.55,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 76.01,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "March",
+    "distanceNm": 481.55,
+    "fuelConsumedTons": 21503.19,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 77.75,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "April",
+    "distanceNm": 468.84,
+    "fuelConsumedTons": 22291.5,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 86.7,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "May",
+    "distanceNm": 345.89,
+    "fuelConsumedTons": 15077.31,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 70.75,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "June",
+    "distanceNm": 261.11,
+    "fuelConsumedTons": 12715.1,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 87.16,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "July",
+    "distanceNm": 333.5,
+    "fuelConsumedTons": 14947.42,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 91.78,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "August",
+    "distanceNm": 283.9,
+    "fuelConsumedTons": 12855.26,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 78.57,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "September",
+    "distanceNm": 382.49,
+    "fuelConsumedTons": 12204.35,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 92.74,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "October",
+    "distanceNm": 122.06,
+    "fuelConsumedTons": 6026.92,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 91.7,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "November",
+    "distanceNm": 137.59,
+    "fuelConsumedTons": 6405.73,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 83.35,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG091",
+    "reportMonth": "December",
+    "distanceNm": 142.39,
+    "fuelConsumedTons": 5713.57,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 91.72,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "January",
+    "distanceNm": 150.46,
+    "fuelConsumedTons": 3586.36,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 87.33,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "February",
+    "distanceNm": 145.65,
+    "fuelConsumedTons": 4228.53,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 90.73,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "March",
+    "distanceNm": 117.93,
+    "fuelConsumedTons": 3498.16,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 91.9,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "April",
+    "distanceNm": 172.62,
+    "fuelConsumedTons": 3645.56,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 72.05,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "May",
+    "distanceNm": 86.3,
+    "fuelConsumedTons": 2437.63,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 83.89,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "June",
+    "distanceNm": 54.9,
+    "fuelConsumedTons": 1136.12,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 76.39,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "July",
+    "distanceNm": 92.52,
+    "fuelConsumedTons": 2449.41,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 93.89,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "August",
+    "distanceNm": 192.28,
+    "fuelConsumedTons": 4537.87,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 92.08,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "September",
+    "distanceNm": 56.93,
+    "fuelConsumedTons": 1354.49,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 79.85,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "October",
+    "distanceNm": 160.58,
+    "fuelConsumedTons": 4793.45,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 84.35,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "November",
+    "distanceNm": 53.58,
+    "fuelConsumedTons": 1493.06,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 89.49,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG092",
+    "reportMonth": "December",
+    "distanceNm": 175.22,
+    "fuelConsumedTons": 5109.36,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 77.41,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "January",
+    "distanceNm": 74.99,
+    "fuelConsumedTons": 1698.4,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 92.18,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "February",
+    "distanceNm": 81.1,
+    "fuelConsumedTons": 1676.37,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 73.74,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "March",
+    "distanceNm": 128.07,
+    "fuelConsumedTons": 2757.52,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 77.46,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "April",
+    "distanceNm": 154.35,
+    "fuelConsumedTons": 3306.69,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 81.47,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "May",
+    "distanceNm": 62.4,
+    "fuelConsumedTons": 1532.24,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 89.19,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "June",
+    "distanceNm": 137.36,
+    "fuelConsumedTons": 4084.15,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 75.74,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "July",
+    "distanceNm": 88.13,
+    "fuelConsumedTons": 2396.21,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 90.36,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "August",
+    "distanceNm": 107.32,
+    "fuelConsumedTons": 2272.15,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 81.78,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "September",
+    "distanceNm": 98.99,
+    "fuelConsumedTons": 2335.15,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 82.2,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "October",
+    "distanceNm": 62.6,
+    "fuelConsumedTons": 1657.06,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 75,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "November",
+    "distanceNm": 183.26,
+    "fuelConsumedTons": 5053,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 86.44,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG093",
+    "reportMonth": "December",
+    "distanceNm": 186.24,
+    "fuelConsumedTons": 4126.02,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 88.95,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "January",
+    "distanceNm": 90.65,
+    "fuelConsumedTons": 2783.15,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 83.06,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "February",
+    "distanceNm": 48.59,
+    "fuelConsumedTons": 1534.2,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 76.16,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "March",
+    "distanceNm": 83.5,
+    "fuelConsumedTons": 2747.89,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 85.25,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "April",
+    "distanceNm": 119.57,
+    "fuelConsumedTons": 3891.75,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 78.39,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "May",
+    "distanceNm": 60.98,
+    "fuelConsumedTons": 1696.71,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 71.3,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "June",
+    "distanceNm": 81.81,
+    "fuelConsumedTons": 2093.66,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 93.57,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "July",
+    "distanceNm": 110.71,
+    "fuelConsumedTons": 3845.02,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 93.43,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "August",
+    "distanceNm": 121.72,
+    "fuelConsumedTons": 3831.8,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 92.94,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "September",
+    "distanceNm": 142.86,
+    "fuelConsumedTons": 4884.56,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 75.35,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "October",
+    "distanceNm": 103.58,
+    "fuelConsumedTons": 2959.76,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 76.28,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "November",
+    "distanceNm": 144.37,
+    "fuelConsumedTons": 4870.22,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 82.7,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG094",
+    "reportMonth": "December",
+    "distanceNm": 149.15,
+    "fuelConsumedTons": 3895.54,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 91.1,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "January",
+    "distanceNm": 136.93,
+    "fuelConsumedTons": 3806.64,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 89.91,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "February",
+    "distanceNm": 88.8,
+    "fuelConsumedTons": 2674.29,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 82.53,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "March",
+    "distanceNm": 60.34,
+    "fuelConsumedTons": 1905.53,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 84.82,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "April",
+    "distanceNm": 32.47,
+    "fuelConsumedTons": 1024.21,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 84.33,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "May",
+    "distanceNm": 68.69,
+    "fuelConsumedTons": 2319.58,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 93,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "June",
+    "distanceNm": 21.11,
+    "fuelConsumedTons": 721.9,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 73.01,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "July",
+    "distanceNm": 133.48,
+    "fuelConsumedTons": 4108.29,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 80.55,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "August",
+    "distanceNm": 61.37,
+    "fuelConsumedTons": 1970.45,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 83.42,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "September",
+    "distanceNm": 21.02,
+    "fuelConsumedTons": 544.52,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 92.55,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "October",
+    "distanceNm": 30.86,
+    "fuelConsumedTons": 795.85,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 93.78,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "November",
+    "distanceNm": 58.52,
+    "fuelConsumedTons": 1944.49,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 94.66,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG095",
+    "reportMonth": "December",
+    "distanceNm": 143.98,
+    "fuelConsumedTons": 4230.35,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 75.9,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "January",
+    "distanceNm": 90.07,
+    "fuelConsumedTons": 1643.8,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 83.13,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "February",
+    "distanceNm": 104.75,
+    "fuelConsumedTons": 1529.23,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 78.14,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "March",
+    "distanceNm": 168.82,
+    "fuelConsumedTons": 2517.72,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 87.8,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "April",
+    "distanceNm": 171.93,
+    "fuelConsumedTons": 1925.52,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 80.69,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "May",
+    "distanceNm": 118.67,
+    "fuelConsumedTons": 1885.6,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 78.91,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "June",
+    "distanceNm": 21.42,
+    "fuelConsumedTons": 237.88,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 71.97,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "July",
+    "distanceNm": 195.28,
+    "fuelConsumedTons": 3310.69,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 81.38,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "August",
+    "distanceNm": 44.06,
+    "fuelConsumedTons": 855.01,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 81.73,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "September",
+    "distanceNm": 95.11,
+    "fuelConsumedTons": 1837.37,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 86.8,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "October",
+    "distanceNm": 138.09,
+    "fuelConsumedTons": 1380.9,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 88.86,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "November",
+    "distanceNm": 81.49,
+    "fuelConsumedTons": 1538.19,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 80.39,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG096",
+    "reportMonth": "December",
+    "distanceNm": 157.85,
+    "fuelConsumedTons": 2487.33,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 85.78,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "January",
+    "distanceNm": 61.79,
+    "fuelConsumedTons": 1321.95,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 74.4,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "February",
+    "distanceNm": 182.5,
+    "fuelConsumedTons": 4670.49,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 84.02,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "March",
+    "distanceNm": 113.34,
+    "fuelConsumedTons": 3096.19,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 74.98,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "April",
+    "distanceNm": 85.65,
+    "fuelConsumedTons": 2452.83,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 88.95,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "May",
+    "distanceNm": 148.86,
+    "fuelConsumedTons": 3307.48,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 70.25,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "June",
+    "distanceNm": 164.39,
+    "fuelConsumedTons": 3524.04,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 75.4,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "July",
+    "distanceNm": 119.05,
+    "fuelConsumedTons": 3416.24,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 87.62,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "August",
+    "distanceNm": 52.56,
+    "fuelConsumedTons": 1419.24,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 77.32,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "September",
+    "distanceNm": 158.36,
+    "fuelConsumedTons": 4570.2,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 74.91,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "October",
+    "distanceNm": 108,
+    "fuelConsumedTons": 2533.47,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 77.77,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "November",
+    "distanceNm": 173.47,
+    "fuelConsumedTons": 3601.39,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 76.9,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG097",
+    "reportMonth": "December",
+    "distanceNm": 101.87,
+    "fuelConsumedTons": 2406.96,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 73.78,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "January",
+    "distanceNm": 258.1,
+    "fuelConsumedTons": 10645.34,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 88.54,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "February",
+    "distanceNm": 154.45,
+    "fuelConsumedTons": 6451.83,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 75.97,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "March",
+    "distanceNm": 231.15,
+    "fuelConsumedTons": 11515.41,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 83.24,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "April",
+    "distanceNm": 85.55,
+    "fuelConsumedTons": 4033.13,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 78.25,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "May",
+    "distanceNm": 458.6,
+    "fuelConsumedTons": 19850.2,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 77.01,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "June",
+    "distanceNm": 306.63,
+    "fuelConsumedTons": 11197.49,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 78.56,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "July",
+    "distanceNm": 59.63,
+    "fuelConsumedTons": 2627.45,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 73.43,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "August",
+    "distanceNm": 186.6,
+    "fuelConsumedTons": 6118.08,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 83.1,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "September",
+    "distanceNm": 193.61,
+    "fuelConsumedTons": 7705.56,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 89.47,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "October",
+    "distanceNm": 463.72,
+    "fuelConsumedTons": 16628.78,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 82.44,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "November",
+    "distanceNm": 81.68,
+    "fuelConsumedTons": 3169.97,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 78.3,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG098",
+    "reportMonth": "December",
+    "distanceNm": 56.97,
+    "fuelConsumedTons": 2726.68,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 70.06,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "January",
+    "distanceNm": 66.84,
+    "fuelConsumedTons": 2565.72,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 89.61,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "February",
+    "distanceNm": 381.96,
+    "fuelConsumedTons": 12970.85,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 85.12,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "March",
+    "distanceNm": 363.68,
+    "fuelConsumedTons": 12802.55,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 86.87,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "April",
+    "distanceNm": 333.76,
+    "fuelConsumedTons": 14351.64,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 70.7,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "May",
+    "distanceNm": 437.8,
+    "fuelConsumedTons": 13673.2,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 77.9,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "June",
+    "distanceNm": 69.56,
+    "fuelConsumedTons": 2858.44,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 92.39,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "July",
+    "distanceNm": 332.91,
+    "fuelConsumedTons": 11325.98,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 78.96,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "August",
+    "distanceNm": 422.29,
+    "fuelConsumedTons": 16497.91,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 84.8,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "September",
+    "distanceNm": 310.5,
+    "fuelConsumedTons": 13078.11,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 92.14,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "October",
+    "distanceNm": 325.38,
+    "fuelConsumedTons": 12095.61,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 74.02,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "November",
+    "distanceNm": 207.58,
+    "fuelConsumedTons": 8808.92,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 72.44,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG099",
+    "reportMonth": "December",
+    "distanceNm": 106.48,
+    "fuelConsumedTons": 4324.16,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 89.38,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "January",
+    "distanceNm": 146.74,
+    "fuelConsumedTons": 2126.09,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 83.14,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "February",
+    "distanceNm": 130.97,
+    "fuelConsumedTons": 1731.78,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 89.33,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "March",
+    "distanceNm": 117.09,
+    "fuelConsumedTons": 1762.98,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 89.97,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "April",
+    "distanceNm": 183.03,
+    "fuelConsumedTons": 2093.83,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 87.29,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "May",
+    "distanceNm": 150.55,
+    "fuelConsumedTons": 2880.38,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 71.64,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "June",
+    "distanceNm": 31.27,
+    "fuelConsumedTons": 589.65,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 75.56,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "July",
+    "distanceNm": 199.91,
+    "fuelConsumedTons": 2107.61,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 92.46,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "August",
+    "distanceNm": 87.18,
+    "fuelConsumedTons": 1384.68,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 88.56,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "September",
+    "distanceNm": 105.12,
+    "fuelConsumedTons": 2096.23,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 78.14,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "October",
+    "distanceNm": 32.5,
+    "fuelConsumedTons": 466.75,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 86.15,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "November",
+    "distanceNm": 127.28,
+    "fuelConsumedTons": 1910.31,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 86.08,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG100",
+    "reportMonth": "December",
+    "distanceNm": 169.85,
+    "fuelConsumedTons": 2827.56,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 86.52,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "January",
+    "distanceNm": 188.84,
+    "fuelConsumedTons": 2049.82,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 80.93,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "February",
+    "distanceNm": 165.63,
+    "fuelConsumedTons": 1971.63,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 83.62,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "March",
+    "distanceNm": 86.77,
+    "fuelConsumedTons": 1132.71,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 70.81,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "April",
+    "distanceNm": 97.27,
+    "fuelConsumedTons": 1731.31,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 91.26,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "May",
+    "distanceNm": 184.51,
+    "fuelConsumedTons": 3578.44,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 75.73,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "June",
+    "distanceNm": 127.45,
+    "fuelConsumedTons": 1744.33,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 94.38,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "July",
+    "distanceNm": 23.36,
+    "fuelConsumedTons": 443.54,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 94.56,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "August",
+    "distanceNm": 165.73,
+    "fuelConsumedTons": 2969.75,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 92.37,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "September",
+    "distanceNm": 197.25,
+    "fuelConsumedTons": 3848.79,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 71,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "October",
+    "distanceNm": 175.84,
+    "fuelConsumedTons": 2365.94,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 82.52,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "November",
+    "distanceNm": 64.04,
+    "fuelConsumedTons": 1279.31,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 85.89,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG101",
+    "reportMonth": "December",
+    "distanceNm": 94.2,
+    "fuelConsumedTons": 1308.08,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 77.1,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "January",
+    "distanceNm": 114.52,
+    "fuelConsumedTons": 1818.79,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 74.26,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "February",
+    "distanceNm": 105.11,
+    "fuelConsumedTons": 1822.47,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 77.82,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "March",
+    "distanceNm": 50.68,
+    "fuelConsumedTons": 658.4,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 83.5,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "April",
+    "distanceNm": 199.16,
+    "fuelConsumedTons": 3830.8,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 80.75,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "May",
+    "distanceNm": 175.73,
+    "fuelConsumedTons": 1933.1,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 92.99,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "June",
+    "distanceNm": 48.53,
+    "fuelConsumedTons": 696.44,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 87.03,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "July",
+    "distanceNm": 26.09,
+    "fuelConsumedTons": 292.06,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 88.67,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "August",
+    "distanceNm": 24.71,
+    "fuelConsumedTons": 410.23,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 92.46,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "September",
+    "distanceNm": 150.33,
+    "fuelConsumedTons": 1751.98,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 78.43,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "October",
+    "distanceNm": 158.68,
+    "fuelConsumedTons": 2897.68,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 85.79,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "November",
+    "distanceNm": 175.33,
+    "fuelConsumedTons": 3327.01,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 80.05,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG102",
+    "reportMonth": "December",
+    "distanceNm": 64.1,
+    "fuelConsumedTons": 1052.86,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 71.07,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "January",
+    "distanceNm": 55.09,
+    "fuelConsumedTons": 1408.66,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 82.32,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "February",
+    "distanceNm": 99.99,
+    "fuelConsumedTons": 2906.95,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 70.61,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "March",
+    "distanceNm": 131.58,
+    "fuelConsumedTons": 3955.59,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 94.5,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "April",
+    "distanceNm": 68.15,
+    "fuelConsumedTons": 2345.47,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 80.78,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "May",
+    "distanceNm": 93.39,
+    "fuelConsumedTons": 2502.02,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 94.24,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "June",
+    "distanceNm": 124.49,
+    "fuelConsumedTons": 3699.02,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 82.55,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "July",
+    "distanceNm": 84.89,
+    "fuelConsumedTons": 2964.84,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 92.3,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "August",
+    "distanceNm": 78.78,
+    "fuelConsumedTons": 2209.73,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 77.9,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "September",
+    "distanceNm": 67.77,
+    "fuelConsumedTons": 1944.87,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 72.88,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "October",
+    "distanceNm": 85.83,
+    "fuelConsumedTons": 2479.44,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 76.2,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "November",
+    "distanceNm": 144.88,
+    "fuelConsumedTons": 4381.91,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 80.26,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG103",
+    "reportMonth": "December",
+    "distanceNm": 28.52,
+    "fuelConsumedTons": 837.14,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 77.11,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "January",
+    "distanceNm": 47.93,
+    "fuelConsumedTons": 1662.33,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 78.61,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "February",
+    "distanceNm": 26.53,
+    "fuelConsumedTons": 676.37,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 80.25,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "March",
+    "distanceNm": 117.71,
+    "fuelConsumedTons": 3981.33,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 73.32,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "April",
+    "distanceNm": 67.04,
+    "fuelConsumedTons": 2312.5,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 87.78,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "May",
+    "distanceNm": 107.12,
+    "fuelConsumedTons": 2710.02,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 84.63,
+    "routeId": "Escravos-Lagos"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "June",
+    "distanceNm": 91.89,
+    "fuelConsumedTons": 2603.57,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 85.75,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "July",
+    "distanceNm": 70.54,
+    "fuelConsumedTons": 2012.44,
+    "fuelType": "HFO",
+    "weather": "Calm",
+    "engineEfficiency": 83.83,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "August",
+    "distanceNm": 118.59,
+    "fuelConsumedTons": 3849.79,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 93.36,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "September",
+    "distanceNm": 126.17,
+    "fuelConsumedTons": 3333.38,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 90.27,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "October",
+    "distanceNm": 111.52,
+    "fuelConsumedTons": 3415,
+    "fuelType": "HFO",
+    "weather": "Stormy",
+    "engineEfficiency": 88.85,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "November",
+    "distanceNm": 121.05,
+    "fuelConsumedTons": 3612.88,
+    "fuelType": "Diesel",
+    "weather": "Stormy",
+    "engineEfficiency": 91.71,
+    "routeId": "Lagos-Apapa"
+  },
+  {
+    "vesselCode": "NG104",
+    "reportMonth": "December",
+    "distanceNm": 126.45,
+    "fuelConsumedTons": 4389.29,
+    "fuelType": "HFO",
+    "weather": "Moderate",
+    "engineEfficiency": 78.75,
+    "routeId": "Warri-Bonny"
+  },
+  {
+    "vesselCode": "NG105",
+    "reportMonth": "January",
+    "distanceNm": 146.92,
+    "fuelConsumedTons": 5121.13,
+    "fuelType": "Diesel",
+    "weather": "Moderate",
+    "engineEfficiency": 94.16,
+    "routeId": "Port Harcourt-Lagos"
+  },
+  {
+    "vesselCode": "NG105",
+    "reportMonth": "February",
+    "distanceNm": 39.14,
+    "fuelConsumedTons": 1233,
+    "fuelType": "Diesel",
+    "weather": "Calm",
+    "engineEfficiency": 76.4,
+    "routeId": "Lagos-Apapa"
+  }
+]
